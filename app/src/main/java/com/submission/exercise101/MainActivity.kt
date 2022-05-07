@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         println("second change")
         println("first feature")
         println("second feature")
+        println("message to merge")
     }
 }
