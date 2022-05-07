@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         println("first change")
         println("second change")
         println("first feature")
+        println("second feature")
     }
 }
