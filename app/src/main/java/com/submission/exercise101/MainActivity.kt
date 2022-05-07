@@ -7,8 +7,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        println("first change")
-        println("second change")
-        println("first feature")
+        println("fifth feature")
     }
 }
