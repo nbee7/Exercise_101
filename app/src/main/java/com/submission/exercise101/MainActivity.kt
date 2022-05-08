@@ -8,7 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         println("fifth feature")
-        println("lala")
+        println("lala1")
         println("thirds feature")
         println("six feature")
     }
