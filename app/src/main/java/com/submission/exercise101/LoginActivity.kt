@@ -3,11 +3,10 @@ package com.submission.exercise101
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class MainActivity : AppCompatActivity() {
+class LoginActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
-        println("fifth feature")
-        println("third feature")
+        setContentView(R.layout.activity_login)
+        println("ini login")
     }
 }
