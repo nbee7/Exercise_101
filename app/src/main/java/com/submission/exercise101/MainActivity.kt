@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         println("first feature")
         println("second feature")
         println("message to merge")
+        println("commit master")
     }
 }
